@@ -1,0 +1,3 @@
+[submodule "Packages/me.jonghyeon.pixelate"]
+	path = Packages/me.jonghyeon.pixelate
+	url = https://github.com/ShapeLayer/pixelate.git
